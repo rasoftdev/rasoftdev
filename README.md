@@ -1,4 +1,4 @@
-# FullStack Softeware Developer
+# FullStack Software Developer
 
 <hr/>
 
