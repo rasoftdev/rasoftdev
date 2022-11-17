@@ -1,30 +1,22 @@
-### H! 👋, I'm Ricardo Alvarez - Software Developer [rasoftdev] 👨‍💻
+# Hi, I'm Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
 
-<br/>
+<img src="https://ricardoalvarez.com.co/assets/images/site/bg.png" alt="Ricardo Alvarez - Software Developer">
 
-<div style="display:flex; align-items:center">
-
-<a href="https://instagram.com/rasoftdev">
-  <img align="left" alt="rasoftdev | Instagram" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/yoricardoalvarez/">
-  <img align="left" style="margin-right:5px" alt="Ricardo Alvarez Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-
-<a href="https://twitter.com/rasoftdev">
-  <img align="left" alt="rasoftdev | Twitter" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
-</a>
-
-</div>
-
-<br />
-<br/>
-
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Ricardo Alvarez - Software Developer" src="https://ricardoalvarez.com.co/assets/images/site/logo.png" />
+<p align="justify">
+Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software alta calidad en cada uno de mis proyectos.</p>
+<p align="justify">
+Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológicas apropiadas en beneficio del cliente.
+</p>
+<br>
+<br>
 <p>
-I'm a full stack developer 🚀 from Colombia.
-<br/>
+---
+<br>
+<br>
+🛒 Tiendas online
+💻 Desarrollo de software web
+💽 Hosting y dominios web
+</p>
 
   
 ### ✨ Quick Facts
