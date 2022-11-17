@@ -18,6 +18,8 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
   
 ### ✨ Sobre mí
 
+-   🚀 Escribeme: WhatsApp | [+573152691365](https://api.whatsapp.com/send?phone=573152691365)
+-   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: info@ricardoalvarez.com.co
 -   🌐 Sitio web: https://ricardoalvarez.com.co
 -   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
