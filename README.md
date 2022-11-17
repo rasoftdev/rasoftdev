@@ -48,5 +48,5 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![Servidores linux](https://img.shields.io/badge/-servidores-linux-black?style=flat-square&logo=linux)
 
