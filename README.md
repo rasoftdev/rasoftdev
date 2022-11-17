@@ -10,9 +10,9 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 <p>
 ---
 
-🛒 Tiendas online
-💻 Desarrollo de software web
-💽 Hosting y dominios web
+🛒 Tiendas online<br>
+💻 Desarrollo de software web<br>
+💽 Hosting y dominios web<br>
 </p>
 
   
@@ -20,6 +20,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 
 -   👨🏽‍💻 I’m currently working on @debrain
 -   📫 How to reach me: info@ricardoalvarez.com.co
+-   🌐 website: <a target="_blank" href="ricardoalvarez.com.co">ricardoalvarez.com.co</a>
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/rasoftdev?label=Follow&style=social)](https://github.com/rasoftdev/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@rasoftdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rasoftdev)](https://twitter.com/aman_atg)
 
