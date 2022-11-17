@@ -8,7 +8,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 <p>
 ---
 
-🌐 Sitios webs
-🛒 Tiendas online
-💻 Desarrollo de software web
-💽 Hosting y dominios web
+🌐 Sitios webs<br>
+🛒 Tiendas online<br>
+💻 Desarrollo de software web<br>
+💽 Hosting y dominios web<br>
