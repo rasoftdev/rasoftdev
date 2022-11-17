@@ -26,10 +26,10 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 
 ### 🚀 Sigueme
 
-<a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
-<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
-<a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a> 
-<a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>
+<a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a>&nbsp; 
+<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a>&nbsp; 
+<a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a>&nbsp;
+<a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/yoricardoalvarez" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
 ### 🛠️ Lenguajes y tecnologías:
