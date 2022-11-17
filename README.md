@@ -31,7 +31,6 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
