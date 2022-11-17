@@ -1,34 +1,21 @@
-# FullStack Software Developer
+<p align="center" width="300">
+   <img align="center" width="200" src="https://ricardoalvarez.com.co/assets/images/site/logo.png"/>
+   <h3 align="center">¡Hi 👋! Soy Ricardo Alvarez - Software Developer 👨🏻‍💻</h3>
+</p>
 
-<hr/>
-
-- 📫 How to contact me rasoftdev@gmail.com
-
-<hr/>
-
-**Languages:**  
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-**Tools:**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-
-<hr/>
-
-<a href="https://github.com/rasoftdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rasoftdev&show_icons=true&text_color=66788c&icon_color=0078d3&title_color=25477b&locale=es&border_radius=25">
-</a>
-
+<p align="center">Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, estoy aquí para brindarle a mis clientes servicios de alta calidad y me caracterizo por la responsabilidad y el compromiso con cada uno de mis proyectos.
+Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológicas apropiadas en beneficio de su negocio.!</p>
+<p align="center">
+   <a href="https://instagram.com/rasoftdev" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+   <a href="https://www.facebook.com/rasoftdev" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/rasoftdev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+  <a href="https://www.linkedin.com/in/yoricardoalvarez" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
