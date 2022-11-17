@@ -40,7 +40,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 
 ### 🚀 Contactos:
-<a href="https://instagram.com/rasoftdev" target="_blank" style="margin-right:10px;" ><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
-<a href="https://facebook.com/rasoftdev" target="_blank" style="margin-right:10px;" ><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
-<a href="https://twitter.com/rasoftdev" target="_blank" style="margin-right:10px;" ><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a> 
+<a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
+<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
+<a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a> 
 <a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a> 
