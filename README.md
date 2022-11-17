@@ -16,13 +16,21 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 </p>
 
   
-### ✨ Sobre mí
+### ✨ Contactos
 
 -   🚀 Escribeme: WhatsApp | [+573152691365](https://api.whatsapp.com/send?phone=573152691365)
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: info@ricardoalvarez.com.co
 -   🌐 Sitio web: https://ricardoalvarez.com.co
 -   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
+
+---
+
+<a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
+<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
+<a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a> 
+<a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>
+<a href="https://www.linkedin.com/in/yoricardoalvarez" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
 ### 🛠️ Lenguajes y tecnologías:
 
@@ -41,9 +49,3 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 
-### 🚀 Contactos:
-<a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
-<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
-<a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a> 
-<a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>
-<a href="https://www.linkedin.com/in/yoricardoalvarez" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
