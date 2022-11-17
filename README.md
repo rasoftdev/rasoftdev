@@ -21,7 +21,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 -   📫 Escribeme: info@ricardoalvarez.com.co
 -   🌐 Sitio web: https://ricardoalvarez.com.co
 -   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
--   🚀 Sigueme: [Instagram](https://instagram.com/rasoftdev) | [Facebook](https://facebook.com/rasoftdev) | [Twitter](https://twiiter.com/rasoftdev) | [TikTok](https://www.tiktok.com/@rasoftdev)
+-   🚀 Sigueme: ![Instagram](https://instagram.com/rasoftdev) | [Facebook](https://facebook.com/rasoftdev) | [Twitter](https://twiiter.com/rasoftdev) | [TikTok](https://www.tiktok.com/@rasoftdev)
 
 ### 🛠️ Lenguajes y tecnologías:
 
