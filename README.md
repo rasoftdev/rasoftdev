@@ -12,3 +12,4 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 🛒 Tiendas online
 💻 Desarrollo de software web
 💽 Hosting y dominios web
+</p>
