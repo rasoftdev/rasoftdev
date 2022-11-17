@@ -1,4 +1,4 @@
-#Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
+# Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
 
 <img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit.png" alt="Ricardo Alvarez - Software Developer">
 
@@ -16,14 +16,14 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 </p>
 
   
-### ✨ Quick Facts
+### ✨ Sobre mí
 
 -   👨🏽‍💻 I’m currently working on @debrain
 -   📫 How to reach me: info@ricardoalvarez.com.co
 -   🌐 website: https://ricardoalvarez.com.co
 -   📝 [Resume](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing) 
 
-### 🛠️ Languages and Tools:
+### 🛠️ Lenguajes y tecnologías:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -40,4 +40,4 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 
-### 🚀 Social links:
+### 🚀 Contactos:
