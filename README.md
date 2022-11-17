@@ -38,6 +38,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![Wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
