@@ -20,13 +20,12 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 
 -   👨🏽‍💻 I’m currently working on @debrain
 -   📫 How to reach me: info@ricardoalvarez.com.co
--   🌐 website: <a target="_blank" href="ricardoalvarez.com.co">ricardoalvarez.com.co</a>
--   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
--   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/rasoftdev?label=Follow&style=social)](https://github.com/rasoftdev/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@rasoftdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rasoftdev)](https://twitter.com/aman_atg)
+-   🌐 website: https://ricardoalvarez.com.co
+-   📝 [Resume](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript]
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
@@ -41,3 +40,5 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+
+### 🚀 Social links:
