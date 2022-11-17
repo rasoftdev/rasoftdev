@@ -24,7 +24,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 -   🌐 Sitio web: https://ricardoalvarez.com.co
 -   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
 
----
+### 🚀 Sigueme
 
 <a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a> 
 <a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a> 
