@@ -25,7 +25,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
