@@ -1,6 +1,6 @@
 # Hi, I'm Ricardo Alvarez - Software Developer 👋 👨‍💻
 
-<img src="https://ricardoalvarez.com.co/assets/images/site/bg.png" alt="Ricardo Alvarez - Software Developer">
+<img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit.png" alt="Ricardo Alvarez - Software Developer">
 <p align="justify">
 Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software alta calidad en cada uno de mis proyectos.</p>
 <p align="justify">
