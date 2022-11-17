@@ -18,10 +18,9 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
   
 ### ✨ Sobre mí
 
--   👨🏽‍💻 I’m currently working on @debrain
--   📫 How to reach me: info@ricardoalvarez.com.co
--   🌐 website: https://ricardoalvarez.com.co
--   📝 [Resume](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing) 
+-   📫 Escribeme: info@ricardoalvarez.com.co
+-   🌐 Sitio web: https://ricardoalvarez.com.co
+-   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing) 
 
 ### 🛠️ Lenguajes y tecnologías:
 
@@ -41,3 +40,4 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Servidores linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 
 ### 🚀 Contactos:
+
