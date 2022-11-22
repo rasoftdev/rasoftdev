@@ -3,7 +3,7 @@
 <img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit.png" alt="Ricardo Alvarez - Software Developer">
 
 <p align="justify">
-Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software de alta calidad en cada uno de mis proyectos.</p>
+Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software de alta calidad en cada uno de mis proyectos.</p>Cancel changes
 <p align="justify">
 Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológicas apropiadas en beneficio del cliente.
 </p>
@@ -22,7 +22,6 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 -   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: info@ricardoalvarez.com.co
 -   🌐 Sitio web: https://ricardoalvarez.com.co
--   📝 [CV](https://drive.google.com/file/d/19uTSBScgjl1ltL-uB_EA9ZEccpBj9vdp/view?usp=sharing)
 
 ### 🚀 Sígueme
 
