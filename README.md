@@ -33,11 +33,14 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 <a href="https://www.linkedin.com/in/yoricardoalvarez" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
 ### 🛠️ Lenguajes y tecnologías:
-
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+-----
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat-square&logo=codeigniter)
+![Symfony](https://img.shields.io/badge/-symfony-black?style=flat-square&logo=symfony)
 ![Wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
