@@ -57,4 +57,4 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
