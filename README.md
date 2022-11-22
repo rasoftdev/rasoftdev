@@ -38,6 +38,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![Laravel Nova](https://img.shields.io/badge/-Laravel%20Nova-black?style=flat-square&logo=laravelnova)
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat-square&logo=codeigniter)
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat-square&logo=symfony)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
