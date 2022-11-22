@@ -40,7 +40,7 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-black?style=flat-square&logo=codeigniter)
 ![Symfony](https://img.shields.io/badge/-symfony-black?style=flat-square&logo=symfony)
-![Wordpress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
@@ -51,5 +51,5 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
