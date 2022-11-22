@@ -53,4 +53,8 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
