@@ -9,7 +9,6 @@ Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológi
 </p>
 <p>
 ---
-  
 🌐 Sitios web<br>
 🛒 Tiendas online<br>
 💻 Desarrollo de software web<br>
