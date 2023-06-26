@@ -3,7 +3,7 @@
 <img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit4.png" alt="Ricardo Alvarez - Software Developer">
 
 <p align="justify">
-Ricardo Alvarez - Software Developer es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software de alta calidad en cada uno de mis proyectos.</p>
+Ricardo Alvarezbes una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software de alta calidad en cada uno de mis proyectos.</p>
 <p align="justify">
 Mi enfoque principal es transformar ideas y necesidades en soluciones tecnológicas apropiadas en beneficio del cliente.
 </p>
