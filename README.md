@@ -1,6 +1,6 @@
 # Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
 
-<img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit4.png" alt="Ricardo Alvarez - Software Developer">
+<img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit5.png" alt="Ricardo Alvarez - Software Developer">
 
 <p align="justify">
 Ricardo Alvarez es una marca personal creada con más de 8 años de experiencia en el desarrollo de software web, generando soluciones de software de alta calidad en cada uno de mis proyectos.</p>
