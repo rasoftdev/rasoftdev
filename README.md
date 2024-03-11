@@ -3,7 +3,7 @@
 <img src="https://ricardoalvarez.com.co/assets/images/site/bannerGit7.png" alt="Ricardo Alvarez - Software Developer">
 
 <p align="justify">
-Soy Ricardo Alvarez, desarrollador de software con más de 8 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
+Soy Ricardo Alvarez, desarrollador de software con más de 9 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
 </p>
 <p align="justify">
 Para mí, cada proyecto es único y lo trato de esa manera. Mi enfoque se centra en el cliente y en asegurarme de que cada solución que proporciono satisfaga completamente sus necesidades y objetivos empresariales. Trabajo estrechamente con mis clientes para entender sus requerimientos y para asegurarme de que las soluciones que propongo sean personalizadas y adecuadas para ellos.
