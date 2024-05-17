@@ -64,3 +64,5 @@ Soy una excelente opción para aquellos que buscan soluciones de software web pe
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+
