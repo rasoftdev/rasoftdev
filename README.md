@@ -17,7 +17,6 @@ Soy una excelente opción para aquellos que buscan soluciones de software web pe
 🌐 Sitios web<br>
 🛒 Tiendas online<br>
 💻 Aplicaciones web<br>
-💽 Hosting y dominios web<br>
 </p>
 
   
