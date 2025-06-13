@@ -30,7 +30,7 @@ Soy una excelente opción para aquellos que buscan soluciones de software web pe
 ### 🚀 Sígueme
 
 <a href="https://instagram.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"></a>&nbsp; 
-<a href="https://facebook.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a>&nbsp; 
+<a href="https://facebook.com/ricardo.alvarez.297909" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"></a>&nbsp; 
 <a href="https://twitter.com/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"></a>&nbsp;
 <a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
