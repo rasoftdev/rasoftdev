@@ -1,6 +1,6 @@
-# Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
+# Ricardo Alvarez - Senior Developer [rasoftdev] 👋 👨‍💻
 
-<img src="https://links.ricardoalvarez.com.co/assets/images/portadaGit_1.png" alt="Ricardo Alvarez - Software Developer">
+<img src="https://links.ricardoalvarez.com.co/assets/images/portadaGit_1.png" alt="Ricardo Alvarez - Senior Developer">
 
 <p align="justify">
 Soy Ricardo Alvarez, desarrollador de software con más de 9 años de experiencia en el desarrollo de soluciones web de alta calidad y través de mi marca personal donde me enfoco en transformar las ideas y necesidades de mis clientes en soluciones tecnológicas adecuadas y atractivas que generen valor para ellos y sus negocios.
