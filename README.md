@@ -25,7 +25,7 @@ Me distingo por mi compromiso con la excelencia técnica, la claridad en la reso
 <a href="https://www.tiktok.com/@rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Tik%20Tok.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rasoftdev" target="_blank"><img width="40" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
-### 🛠️ Lenguajes y tecnologías:
+### 🛠️ Herramientas y tecnologías:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -54,4 +54,7 @@ Me distingo por mi compromiso con la excelencia técnica, la claridad en la reso
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![Webflow](https://img.shields.io/badge/-webflow-black?style=flat-square&logo=webflow)
+![Filament](https://img.shields.io/badge/-filament-black?style=flat-square&logo=filament)
+![Docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker)
 
