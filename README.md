@@ -9,14 +9,6 @@ A lo largo de mi trayectoria profesional he participado en la construcción de s
 <p align="justify">
 Me distingo por mi compromiso con la excelencia técnica, la claridad en la resolución de problemas y la capacidad de aportar soluciones confiables que generan impacto real. Mantengo una mentalidad de mejora continua y una fuerte orientación a construir software de calidad, preparado para entornos reales y desafíos exigentes.
 </p>
-<p>
----
-  
-🌐 Sitios web<br>
-🛒 Tiendas online<br>
-💻 Aplicaciones web<br>
-</p>
-
   
 ### ✨ Contactos
 
