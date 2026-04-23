@@ -14,7 +14,6 @@ Me distingo por mi compromiso con la excelencia técnica, la claridad en la reso
 ### ✨ Contactos
 
 -   🚀 Escribeme: WhatsApp | [+573223049580](https://api.whatsapp.com/send?phone=573223049580)
--   🚀 Escribeme: Telegram | [@rasoftdev](https://t.me/rasoftdev)
 -   📫 Escribeme: rasoftdev@gmail.com
 -   🌐 Sitio web: [ricardoalvarez.co](https://ricardoalvarez.co)
 
