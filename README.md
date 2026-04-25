@@ -1,5 +1,5 @@
 # Ricardo Alvarez - Software Developer [rasoftdev] 👋 👨‍💻
-<img src="https://ricardoalvarez.co/assets/images/portada.png" alt="Ricardo Alvarez">
+<img src="https://ricardoalvarez.co/assets/images/portada2.png" alt="Ricardo Alvarez">
 
 <p align="justify">
 Soy Ricardo Alvarez, desarrollador de software especializado en el diseño y desarrollo de aplicaciones web robustas, escalables y orientadas a resultados.
